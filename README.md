@@ -37,7 +37,7 @@ Practical Use: The application addresses a common need – task management – m
 Customizability: Developers can enhance and customize the application with additional features such as task prioritization, notifications, and user accounts.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](file:///C:/Users/ANAND%20KUMAR/OneDrive/Pictures/Screenshots/Screenshot%202023-08-30%20183041.png)
 
 
 ## Running Tests
